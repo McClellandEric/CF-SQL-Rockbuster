@@ -18,3 +18,5 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 ## Data
 
 The data set is provided by CareerFoundry and can be found <A HREF=https://drive.google.com/file/d/1hVzBWz5ORRbI37HA8p5tAiuZyMOe66yI/view>here</A>.
+
+Visualizations in Tableau can be found <A HREF=https://public.tableau.com/app/profile/em3165/viz/Task3_10SQLResultsforRockbusterStoryboard/Story1?publish=yes>here</A>.
